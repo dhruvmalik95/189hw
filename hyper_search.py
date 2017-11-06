@@ -8,7 +8,7 @@ import time
 import glob
 import os
 import pickle
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 
 import numpy as np
 import numpy.linalg as LA
